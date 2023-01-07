@@ -1,0 +1,1 @@
+This is a simple guessing game which I made using HTML, CSS and JavaScript.
